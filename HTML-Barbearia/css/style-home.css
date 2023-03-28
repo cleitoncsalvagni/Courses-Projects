@@ -1,0 +1,56 @@
+/*Tags*/
+
+body {
+
+}
+
+p {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+/*Classes*/
+
+.titulo-centralizado {
+    text-align: center;
+}
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.principal {
+    background: #CCCCCC;
+    padding: 30px;
+}
+
+.imagem-beneficios {
+    width: 50%;
+
+}
+
+.itens {
+    font-style: italic;
+}
+
+.Beneficios {
+    padding: 30px;
+    background: #FFFFFF;
+}
+
+
+/*IDs*/
+
+#banner {
+    width: 100%;
+}
+
+#missao {
+    font-size: 20px;
+}

@@ -1,0 +1,13 @@
+<h1><%= I18n.t('welcome')%></h1>
+<h2>Cookie <%= cookies[:teste_C] %></h2>
+<h2>Session <%= session[:teste_S] %></h2>
+<p>O idioma padrão é: <%=t('language') %> </p>
+<p><%= I18n.t('welcome') %>!</p>
+<p>Data padrão: <%= I18n.l(Date.today) %> </p>
+
+
+<% alert_msg = "Bom dia!" %>
+
+<script>
+    $.notify("<%= alert_msg %>", "success");
+</script>

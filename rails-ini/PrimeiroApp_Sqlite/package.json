@@ -1,0 +1,13 @@
+{
+  "name": "PrimeiroApp_Sqlite",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.6.1",
+    "materialize-css": "^1.0.0-rc.2",
+    "notify-js-legacy": "^0.4.1"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Cleiton <cleiton_salvagni@estudante.sc.senai.br>",
+  "license": "MIT"
+}
